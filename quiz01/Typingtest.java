@@ -1,3 +1,4 @@
+package quiz01;
 import java.util.Scanner;
 public class Typingtest {
     public static void main(String[] args) {
