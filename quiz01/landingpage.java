@@ -21,7 +21,7 @@ public class landingpage {
             option = sc.nextInt();
             switch(option){
                 case 1:
-                System.out.println("Landing page");
+                System.out.println(" This is the Landing page");
                 break;
                 case 3:
                 System.out.println("https://github.com/Chanleang-GIC/quiz01/blob/50f23e54ac9605a7e925c95451b778b4d45d6d43/userloginpage.java");
