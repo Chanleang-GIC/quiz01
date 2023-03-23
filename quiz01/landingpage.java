@@ -32,10 +32,10 @@ public class landingpage {
                 System.out.println("https://github.com/Chanleang-GIC/quiz01/blob/0f1e7da943c5a997e2680e1704e816ec8bd7563c/Reset.java");
                 break;
                 case 5:
-                System.out.println("wait");
+                System.out.println("https://github.com/Chanleang-GIC/quiz01/blob/d1851d1a8a58bbd0c7d818d0119dac810bd9592b/quiz01/testR.java");
                 break;
                 case 6:
-                System.out.println("wait");
+                System.out.println("https://github.com/Chanleang-GIC/quiz01/blob/14ba788dee61e61116d8a0300de88a019c7510ac/quiz01/Typingtest.java");
                 break;
                 case 7:
                 System.out.println("https://github.com/Chanleang-GIC/quiz01/blob/0f1e7da943c5a997e2680e1704e816ec8bd7563c/aboutus.txt");
