@@ -9,11 +9,11 @@ each option will give to the link to the code corresponds with that option.
 
 Thank you              
 Who did what?               
-1) First/landing page => Me
+1) First/landing page => Heang Chanleang
 2) User registering page ->Heang Chanleang
-3) User reset password page ->Me 
+3) User reset password page ->Leng Sokchhay
 4) User login page ->Heang Chanleang
 5) List of test results for a user ->Kren Sela
-6) User typing test page ->Me
+6) User typing test page ->Leng Sokchhay
 7) About Us page ->(Together)
-8) README.md (document on how to setup, compile, and run project locally)->(Together)
+8) README.md (document on how to setup, compile, and run project locally)->Heang Chanleang
