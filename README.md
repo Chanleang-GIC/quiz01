@@ -1,5 +1,5 @@
 # quiz01
-How to use :\n
+How to use :/n
 Step#1:\n
 To use this program you have to go into the Landing page.\n
 step#2:\n
