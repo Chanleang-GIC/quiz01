@@ -1,14 +1,14 @@
 # quiz01
-How to use :
-Step#1:
-To use this program you have to go into the Landing page.
-step#2:
-In the landing page, pick your option 1-8
-step#3:
-each option will give to the link to the code corresponds with that option.
+How to use :\n
+Step#1:\n
+To use this program you have to go into the Landing page.\n
+step#2:\n
+In the landing page, pick your option 1-8\n
+step#3:\n
+each option will give to the link to the code corresponds with that option.\n
 
-Thank you
-Who did what?
+Thank you\n
+Who did what?\n
 1) First/landing page => Me
 2) User registering page ->Heang Chanleang
 3) User reset password page ->Me 
