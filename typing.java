@@ -129,7 +129,7 @@ public class typing extends JFrame implements ActionListener, KeyListener
 			else
 				message="You are an Elite Typist";
 
-			System.out.println("The previous test you got: ");
+			System.out.println("These are the records of the previous tests: ");
 			System.out.println(usernametmp.username1+" has the typing speed of " + WPM);
 			
 			FontMetrics metrics=getFontMetrics(g.getFont());
